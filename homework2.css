@@ -1,0 +1,31 @@
+body { background-color: yellow; }
+a:link { color: red; }
+a:visited { color: blue; }
+
+h1 { color: red; text-align: center; }
+h2 { color: blue; text-align: right; font-style: italic;}
+.largefont { font-size: 300%; }
+h3 { color: red;  text-align: right;}
+
+.pstart { font-weight: bold; font-style: italic; font-size: 40; }
+.redhighlight { color: red; }
+
+.aligncenter { text-align: center; }
+.alignright { text-align: right; }
+
+.element {
+  animation-duration: 10s;
+}
+
+@keyframes pulse {
+  0% {
+    background-color: cyan;
+    color: black;
+  }
+  100% {
+    background-color: green;
+    color: white
+  }
+}
+
+td { padding: 10px; spacing: 5px; }
