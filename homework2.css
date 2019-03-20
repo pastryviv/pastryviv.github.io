@@ -28,7 +28,7 @@ div {
   100% {background-color:red; left:calc(100% - 150px) ; top:0px;}
 }
 
-.aligncenter { text-align: center; font-weight: bold }
+.aligncenter { font-weight: bold; text-align: center;}
 .alignright { text-align: right; }
 
 .changecolor { animation-name: pulse;
