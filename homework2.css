@@ -19,7 +19,7 @@ div {
   animation-name: helloban;
   animation-duration: 10s;
   text-align: center;
-  font-size:15pt;
+  font-size: 15px;
 }
 
 @keyframes helloban {
