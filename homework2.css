@@ -17,9 +17,9 @@ div {
   background-color: red;
   position: relative;
   animation-name: helloban;
-  animation-duration: 4s;
+  animation-duration: 10s;
   text-align: center;
-  font-size:30pt;
+  font-size:15pt;
 }
 
 @keyframes helloban {
