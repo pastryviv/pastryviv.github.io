@@ -6,7 +6,7 @@ body { background-color: #CCFFFF; }
 
 .nav ul { list-style-type: none; }
 
-.nav li { text-align:center; display: inline; }
+.nav li { text-align:center; display: inline;}
 .nav a { display: inline-block; padding: 10px 20px 10px 20px; background-color: #990000; text-decoration: none; text-align: center; color:white; border-radius:10px; margin-right:5px; }
 
 h1 { text-align:center; color:#330066; }
@@ -15,8 +15,9 @@ h2 { text-align:center; color:blue; }
 
 h3 { text-align:center; letter-spacing:5px; }
 
-img { margin-right: 20px; float: left;}
+img { margin-right: 20px; float: left; }
 
-p::first-letter { font-size: 2.5em; color: #990000}
+p::first-letter { font-size: 2.5em; color: #990000; }
+
 
 .footer {  clear:both; background-color: #990000; text-align:center; font-size:65%; font-weight:bold; color:white; padding: 2em; }
